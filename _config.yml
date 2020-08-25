@@ -26,23 +26,23 @@ kramdown:
 
 # Site owner
 owner:
-  name: Farzad Nozarian
-  avatar: bio-photo.jpg
-  bio: "I am master student at Amirkabir University of Technology. I research in the filed of big data analytics, data mining and machine learning with focus on Cluster Analysis."
-  email: fnozarian@gmail.com
+  name: Reza A. Moghaddam
+  avatar: bio-photo.jpg 
+  bio: "DevOps Engineer"
+  email: #username
   disqus-shortname:
   twitter: #username
   facebook: #username
   google:
-    plus: fnozarian
+    plus: 
     analytics: UA-64432444-1
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: fnozarian
-  stackoverflow: 1658068/farzad
-  linkedin: #username
+  github: ramoghaddam
+  stackoverflow: #username
+  linkedin: abbasimoghaddam
   xing: #username
   instagram: #username
   lastfm: #username
