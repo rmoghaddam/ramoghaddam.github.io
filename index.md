@@ -1,19 +1,22 @@
 ---
 layout: page
 excerpt: "Me in a Nutshell"
-tags: [Farzad Nozarian, about, data science, big data]
+tags: [Reza Abbasi Moghaddam, about, Low-Cost Cryptography, Open Source Technology]
 share: false
 image:
   feature: ds4_2.jpg
 ---
 
-> Data is not information, information is not knowledge, knowledge is not understanding, understanding is not wisdom. **Clifford Stoll**
+> The people who are crazy enough to think they can change the world are the ones who do. **Steve Jobs**
 
 # ![interest]({{ site.url }}/images/cv/about.png){: .image-pull-left} Me in a Nutshell
 
-I'm a curious data science researcher with strong interest in mining, visualizing and processing **big data**! I'm passionate about the following subjects:
-	
-+ **Big Data Analytics**
-+ **Machine Learning**
-+ **Data Mining**
-+ **Cloud Computing**
+I am a curious system designer and administration with a demonstrated history of working in the electronic manufacturing industry and IT company. I got my M.Sc. degree in Computer Hardware Engineering from Amirkabir University of Technology in 2015.
+
+**My interests include:**
+
++ Open Source Technology
++ Low-Cost Cryptography
++ Software Design and Development
++ RFID Security and Privacy
++ Cloud Computing
