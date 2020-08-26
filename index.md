@@ -3,6 +3,8 @@ layout: page
 excerpt: "Me in a Nutshell"
 tags: [Reza Abbasi Moghaddam, about, Low-Cost Cryptography, Open Source Technology]
 share: false
+#image:
+  #feature: cs1.jpeg
 ---
 
 > The people who are crazy enough to think they can change the world are the ones who do. **Steve Jobs**
