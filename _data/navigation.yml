@@ -1,13 +1,13 @@
 # Site navigation links
 
-#- title: Curriculum
+- title: Curriculum
 #  url: /cv/
 
-#- title:  Publications
+- title:  Publications
 #  url: /publications/
 
-#- title: Projects
+- title: Projects
 #  url: /projects/
   
-#- title: Presentations
+- title: Presentations
 #  url: /presentations/
