@@ -15,8 +15,8 @@ I am a curious system designer and administration with a demonstrated history of
 
 > My interests include:
 
-+ **Open Source Technology**
-+ **Low-Cost Cryptography**
-+ **Software Design and Development**
-+ **RFID Security and Privacy**
-+ **Cloud Computing**
++ Open Source Technology
++ Low-Cost Cryptography
++ Software Design and Development
++ RFID Security and Privacy
++ Cloud Computing
