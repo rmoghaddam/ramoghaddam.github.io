@@ -66,7 +66,7 @@ comments: false
 
 ### ![professional]({{ site.url }}/images/cv/professional.png){: .image-pull-left} Professional Activities
 
-+ **Member of EDA Group**, _AUT EDA Group_, Amirkabir University of Technology**
++ **Member of EDA Group**, _AUT EDA Group_, Amirkabir University of Technology
 ---
 
 ### ![work]({{ site.url }}/images/cv/work.png){: .image-pull-left} Work Experience
