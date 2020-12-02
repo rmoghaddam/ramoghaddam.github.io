@@ -104,8 +104,8 @@ comments: false
 
 ### ![certificate]({{ site.url }}/images/cv/certificate.png){: .image-pull-left} Certificates
 
-+ **LPIC1**, _Microsoft Certified IT Professional (LPIC1)_, Tehran Institute of Technology (Arjang), License 160180 &mdash; **Aug 2017**
-+ **LPIC2**, _Microsoft Certified IT Professional (LPIC2)_, Tehran Institute of Technology (Arjang), License 160180 &mdash; **Jan 2017**
++ **LPIC1**, _Microsoft Certified IT Professional (LPIC1)_, Tehran Institute of Technology (Arjang) &mdash; **Aug 2017**
++ **LPIC2**, _Microsoft Certified IT Professional (LPIC2)_, Tehran Institute of Technology (Arjang) &mdash; **Jan 2017**
 
 
 
