@@ -7,7 +7,7 @@ share: false
   #feature: cs1.jpeg
 ---
 
-# ![interest]({{ site.url }}/images/cv/about.png){: .image-pull-left}
+About Me
 
 I am a curious system designer and administrator with a demonstrated history of working in the electronic manufacturing industry and IT company. I got my M.Sc. degree in Computer Hardware Engineering from Amirkabir University of Technology in 2015.
 
