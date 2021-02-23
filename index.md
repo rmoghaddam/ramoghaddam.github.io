@@ -7,7 +7,7 @@ share: false
   #feature: cs1.jpeg
 ---
 
-#> The people who are crazy enough to think they can change the world are the ones who do. **Steve Jobs**
+##> The people who are crazy enough to think they can change the world are the ones who do. **Steve Jobs**
 
 # ![interest]({{ site.url }}/images/cv/about.png){: .image-pull-left} About Me
 
