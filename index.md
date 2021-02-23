@@ -7,9 +7,9 @@ share: false
   #feature: cs1.jpeg
 ---
 
+> The people who are crazy enough to think they can change the world are the ones who do. **Steve Jobs**
 
-### ![skills]({{ site.url }}/images/cv/about.png) About Me
-
+# ![interest]({{ site.url }}/images/cv/about.png){: .image-pull-left} About Me
 
 I am a curious system designer and administrator with a demonstrated history of working in the electronic manufacturing industry and IT company. I got my M.Sc. degree in Computer Hardware Engineering from Amirkabir University of Technology in 2015.
 
