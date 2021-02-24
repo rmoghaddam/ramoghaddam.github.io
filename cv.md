@@ -37,7 +37,6 @@ comments: false
 	+ MySql/MariaDB, Postgress ,MS Sql Server
 
 + **Linux and Open Source Technology**
-	+ Spark, Hadoop, HDFS, MapReduce, Pig, Hive, HBase, Flume, Sqoop, Storm, GraphX, Spark Stream, MLlib, Pregel
 	+ Operating System: Debian, RedHat(CentOS), Ubuntu
 	+ Linux Network Services: DNS, Apache, Mail, Nginx, LAMP, FTP, Samba, NFS, OpenLDAP, 389-ds, Shared Storage, OpenSSL, Squid, and so on.
 	+ Java Web Application Server: Apache Tomcat
