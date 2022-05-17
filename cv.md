@@ -37,17 +37,18 @@ comments: false
 	+ MySql/MariaDB, Postgress ,MS Sql Server
 
 + **Linux and Open Source Technology**
-	+ Operating System: Debian, RedHat(CentOS), Ubuntu
+	+ Operating System: Debian, RedHat(CentOS), Ubuntu, Rocky Linux
 	+ Linux Network Services: DNS, Apache, Mail, Nginx, LAMP, FTP, Samba, NFS, OpenLDAP, 389-ds, Shared Storage, OpenSSL, Squid, and so on.
 	+ Java Web Application Server: Apache Tomcat
-	+ Virtualization and Containers: VMware Virtualization,Docker(Docker-Compose)
+	+ Virtualization and Containers: VMware Virtualization,KVM, Docker(Docker-Compose)
 	+ Performance Monitoring: Zabbix, Cacti, Monitorx, PRTG
 	+ Clustering, Load Balancing, Reverse Proxy and High Availability of Linux Services (Nginx, HA Proxy)
 	+ AAA (authentication, authorization, and accounting) Service 
 	+ SSO (Single sign-on) Service
 	+ Central Log Service (ELK Stack, Splunk)
 	+ Open Source Web Hosting: Plesk, Direct Admin, Sentora
-	+ Familiar with: Kubernetes, Rancher, Ansible, Jenkins, OpenStack, RabbitMQ
+	+ HP and DELL Server
+	+ Familiar with: GitlabCI/CD, Ansible, Jenkins, Kubernetes, Rancher
 	
 + **Networking**
 	+ Network+, Cisco Certified Network Associate (CCNA), Switches and Routers Architecture, Packet Tracer, Wireshark
